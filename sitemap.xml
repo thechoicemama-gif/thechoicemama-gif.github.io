@@ -1,57 +1,51 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
-  <!-- Core Pages -->
+  <!-- Core pages -->
   <url>
     <loc>https://www.choicemama.com/</loc>
     <lastmod>2025-11-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
-
   <url>
     <loc>https://www.choicemama.com/about</loc>
     <lastmod>2025-11-04</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
-
   <url>
     <loc>https://www.choicemama.com/membership-plans</loc>
     <lastmod>2025-11-04</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
-
   <url>
-    <loc>https://www.choicemama.com/contact</loc>
-    <lastmod>2025-11-03</lastmod>
+    <loc>https://www.choicemama.com/contact-us</loc>
+    <lastmod>2025-11-04</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
-
   <url>
     <loc>https://www.choicemama.com/thank-you</loc>
-    <lastmod>2025-11-03</lastmod>
+    <lastmod>2025-11-04</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
 
-  <!-- Journey Phases -->
+  <!-- Journey phases -->
   <url>
     <loc>https://www.choicemama.com/phase-1-honoring-the-dream</loc>
     <lastmod>2025-11-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
-
   <url>
     <loc>https://www.choicemama.com/phase-2-stepping-into-possibility</loc>
     <lastmod>2025-11-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
-
   <url>
     <loc>https://www.choicemama.com/phase-3-rooted-and-rising</loc>
     <lastmod>2025-11-04</lastmod>
@@ -59,37 +53,35 @@
     <priority>0.9</priority>
   </url>
 
-  <!-- Blog Pages -->
+  <!-- Blog hub -->
   <url>
-    <loc>https://www.choicemama.com/blog</loc>
+    <loc>https://www.choicemama.com/blog-listing</loc>
     <lastmod>2025-11-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
 
+  <!-- Blog posts -->
   <url>
-    <loc>https://www.choicemama.com/blog/letting-go-of-the-fairytale</loc>
+    <loc>https://www.choicemama.com/blog-1-letting-go-of-the-fairytale-to-become-the-mother-i-was-meant-to-be</loc>
     <lastmod>2025-11-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
-
   <url>
-    <loc>https://www.choicemama.com/blog/a-love-that-lives-on</loc>
+    <loc>https://www.choicemama.com/blog-2-a-love-that-lives-on</loc>
     <lastmod>2025-11-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
-
   <url>
-    <loc>https://www.choicemama.com/blog/do-we-even-need-men-anymore</loc>
+    <loc>https://www.choicemama.com/blog-3-do-we-even-need-men-anymore</loc>
     <lastmod>2025-11-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
-
   <url>
-    <loc>https://www.choicemama.com/blog/3-million-women-one-silent-crossroads</loc>
+    <loc>https://www.choicemama.com/blog-4-3-million-women-one-silent-crossroads</loc>
     <lastmod>2025-11-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
